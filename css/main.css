@@ -1,0 +1,101 @@
+/* ==========================================================================
+   Base styles
+   ========================================================================== */
+
+html {
+    color: #222;
+    font-size: 1.1em;
+    line-height: 1.4;
+    font-family: 'Expletus Sans', cursive;
+
+}
+
+body {
+    background: #66AAEE; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, rgba(14, 234, 255, 0) , rgba(0, 187, 232, 1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgba(14, 234, 255, 0) , rgba(0, 187, 232, 1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgba(14, 234, 255, 0) , rgba(0, 187, 232, 1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(14, 234, 255, 0) , rgba(0, 187, 232, 1)); /* Standard syntax (must be last) */
+}
+
+
+#Main {
+	padding-top: 450px;
+}
+
+.one {
+	display: block;
+	padding: 15px 10px;
+	color: #FFF;
+	text-align: right;
+	width: 440px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	
+}
+
+.two {
+	display: block;
+	color: #FFF;
+	padding: 15px 10px;
+	text-align: right;
+	width: 550px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	
+}
+
+.three {
+	display: block;
+	padding: 15px 10px;
+	color: #FFF;
+	text-align: right;
+	width: 730px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Clearfix: contain floats
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+
