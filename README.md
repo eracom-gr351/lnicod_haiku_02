@@ -1,12 +1,17 @@
 Toute la journée 
+
 Sans un mot 
+
 Le bruit des vagues
 
 いちにち物言はず
+
 波の音
 
 ichinichi mono 
+
 iwazu
+
 nami no oto
 
 Santoka
